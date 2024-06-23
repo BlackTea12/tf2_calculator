@@ -13,7 +13,7 @@ setup(
     ],
     install_requires=['setuptools'],
     zip_safe=True,
-    maintainer='hd',
+    maintainer='luna',
     maintainer_email='BlackTea12@github.com',
     description='TODO: Package description',
     license='TODO: License declaration',
